@@ -1,6 +1,7 @@
 # Bank Tech Test
 
 ## Technologies
-``` -Ruby
+```
+-Ruby
 -RSpec
 ```
